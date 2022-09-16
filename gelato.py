@@ -7,3 +7,4 @@ elif gelato=='cioccolato' :
 elif gelato=='crema':
     costo='2$'
 print('il tuo costo è di'+' '+costo)
+print(True)
