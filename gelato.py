@@ -13,4 +13,5 @@ for i in range(gelato):
         costo+=5
     elif gusto=='crema':
         costo+=2
-print('il tuo costo è di'+' '+str(costo))
+print('il tuo costo è di'+' '+str(costo)+'$$')
+print('Grazie alla prossima')
